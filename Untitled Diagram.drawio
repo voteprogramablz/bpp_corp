@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T19:42:43.057Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="15.7.0" etag="Vu21RY3dycp6yjWm9Qv6" type="github"><diagram id="wNbsWb7w1appzdyfwDcT">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-08T11:06:03.638Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="SGAycEQII-LanD-yG1VY" version="15.7.0" type="github">
+  <diagram id="wNbsWb7w1appzdyfwDcT" name="Page-1">
+    <mxGraphModel dx="938" dy="1722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DHencF4DGFJNJd6GFve6-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DHencF4DGFJNJd6GFve6-1" target="DHencF4DGFJNJd6GFve6-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DHencF4DGFJNJd6GFve6-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DHencF4DGFJNJd6GFve6-1" target="DHencF4DGFJNJd6GFve6-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DHencF4DGFJNJd6GFve6-1" value="Gerente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-1000" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DHencF4DGFJNJd6GFve6-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DHencF4DGFJNJd6GFve6-2" target="DHencF4DGFJNJd6GFve6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DHencF4DGFJNJd6GFve6-2" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-1120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DHencF4DGFJNJd6GFve6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DHencF4DGFJNJd6GFve6-6" target="DHencF4DGFJNJd6GFve6-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DHencF4DGFJNJd6GFve6-6" value="Fazer Pedido" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-1110" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DHencF4DGFJNJd6GFve6-9" value="Cadastrar Pedido" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DHencF4DGFJNJd6GFve6-11" value="Verificar Pedidos de Delivery" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="-860" width="125" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
