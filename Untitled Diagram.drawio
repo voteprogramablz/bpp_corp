@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T21:34:13.149Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="lJITDAVviTvNq1HX5k5p" version="15.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-10T22:57:42.585Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="_kXr-sZWDJUpFkSwE1Is" version="15.7.1" type="github">
   <diagram id="wNbsWb7w1appzdyfwDcT" name="Page-1">
     <mxGraphModel dx="1133" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="3abo5oeXC7I07PxnP4Vx-1" value="Cadastrar Cliente" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="300" y="270" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6qPDQsVgffjZbFqB8DZj-13" value="&amp;lt;&amp;lt;Include&amp;gt;&amp;gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.003;exitY=0.648;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitPerimeter=0;" edge="1" parent="1" source="3abo5oeXC7I07PxnP4Vx-6" target="3abo5oeXC7I07PxnP4Vx-80">
+        <mxCell id="6qPDQsVgffjZbFqB8DZj-13" value="&amp;lt;&amp;lt;Include&amp;gt;&amp;gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.003;exitY=0.648;exitDx=0;exitDy=0;entryX=0.009;entryY=0.35;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="3abo5oeXC7I07PxnP4Vx-6" target="3abo5oeXC7I07PxnP4Vx-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3abo5oeXC7I07PxnP4Vx-6" value="Verificar Pedidos de Delivery" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -23,7 +23,7 @@
           <mxGeometry x="910" y="540" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3abo5oeXC7I07PxnP4Vx-8" value="Emitir nota fiscal" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="675" y="395" width="140" height="55" as="geometry" />
+          <mxGeometry x="675" y="414" width="140" height="55" as="geometry" />
         </mxCell>
         <mxCell id="3abo5oeXC7I07PxnP4Vx-57" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" target="3abo5oeXC7I07PxnP4Vx-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -114,7 +114,7 @@
           <mxGeometry x="785" y="670" width="125" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6qPDQsVgffjZbFqB8DZj-17" value="Incluir itens faltantes" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1015" y="680" width="130" height="70" as="geometry" />
+          <mxGeometry x="1015" y="670" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
